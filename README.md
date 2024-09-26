@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shivba Pawar
-- 👀 I’m interested in machine learning and python programming
-- 🌱 I’m currently learning artificial neural networks with computer vision and gaming
 - 💞️ I’m looking to collaborate on any projects that works around basics of AI, ML and gaming.
 - 📫 How to reach me ... email me at shivba28@csu.fullerton.edu
 
